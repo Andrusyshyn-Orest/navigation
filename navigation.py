@@ -1,7 +1,7 @@
 """
 This module helps user to navigate through json object
 obtained via Twitter API.
-GitHub Repository: https://github.com/Andrusyshyn-Orest/learning_API.git
+GitHub Repository: https://github.com/Andrusyshyn-Orest/navigation.git
 """
 
 
